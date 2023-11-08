@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    src:local("Inter"),
+    url(../font/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+.head_cont{
+    margin: 0 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    background-color: #484848;
+    height: 120px;
+}
+.logo, .head_button{
+    margin-top: 30px;
+}
+
+.btn_reg{
+    width: 204px;
+    height: 54px;
+    background: #F56C6C;
+    border-radius: 15px;
+    font-size: 24px;
+    border: none;
+}
+.btn_reg:hover{
+    background: #CD5A5A;
+}
+.btn_aut{
+    width: 106px;
+    height: 54px;
+    background: #60DA74;
+    border-radius: 15px;  
+    font-size: 24px;  
+    border: none;
+}
+.btn_aut:hover{
+    background: #429A50;
+}
+footer{
+    background-color: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+}
+.foot_div-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 70px;
+}
+.foot_info2{
+    text-align: center;
+}
+.foot_info3{
+    text-align: end;
+}
+.foot_namehead_text{
+    margin-bottom: 30px;
+}
+
+.stext64{
+    font-size: 64px;
+}
+.stext36{
+    font-size: 36px;
+}
+.stext32{
+    font-size: 32px
+}
+.stext24{
+    font-size: 24px;
+}
+.stext48{
+    font-size: 48px;
+}
+.stext40{
+    font-size: 40px;
+}
+.divcentercol{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.namePAGE{
+    margin: 50px 0;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+}

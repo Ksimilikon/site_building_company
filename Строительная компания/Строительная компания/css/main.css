@@ -1,0 +1,46 @@
+.about_us{
+    color: white;
+    background-image: url(../img/background.png);
+    height: 932px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about_us_head{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.about_us_text{
+    margin-bottom: 32.5px;
+}
+.wish{
+    background: #60DA74;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 25px 0;
+    width: 960px;
+}
+.support{
+    background: #9436F1;
+    border-radius: 15px;
+    color: #EEF150;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+    width: 960px;
+}
+.btn_main{
+    background-color: #EEF150;
+    color: black;
+    width: 212px;
+    height: 69px;
+    border-radius: 15px;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+.supName, .wishName{
+    margin: 20px 0;
+}

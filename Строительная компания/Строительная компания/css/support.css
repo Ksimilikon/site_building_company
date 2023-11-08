@@ -1,0 +1,50 @@
+.quest{
+    resize: vertical;
+    width: 1083px;
+    height: 306px;
+}
+.input{
+    width: 1083px;height: 65px;
+}
+.input,.quest{
+    background: #D9D9D9;
+    border-radius: 15px;
+    font-size: 24px;
+    box-sizing: border-box;
+    padding: 15px;
+    border: none;
+}
+.Name{
+    margin: 35px 0;
+}
+.submit{
+    width: 183px;
+    height: 55px;
+    background: #60DA74;
+    border: none;
+    margin-bottom: 100px;
+}
+.submit:hover{
+    background: #429A50;
+}
+.btn_registration{
+    background-color: #60DA74;
+    width: 235px;
+    height: 58px;
+    margin-bottom: 100px;
+}
+.btn_registration:hover{
+    background-color: #429A50;  
+}
+.btn_autentification{
+    margin-bottom: 100px;
+    width: 131px;
+    height: 58px;
+    
+    background: #60DA74;
+    border-radius: 15px;
+    border: none;
+}
+.btn_autentification:hover{
+    background-color: #429A50;
+}

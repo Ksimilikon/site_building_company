@@ -1,0 +1,92 @@
+.personal_data{
+    border-radius: 15px;
+    background: #D9D9D9;
+    width: 90%;
+    padding: 30px;
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+.graph{
+    background-color: white;
+    width: 450px;
+    height: 55px;
+    margin-right: 70px;
+    display: flex;
+    align-items: center;
+}
+.dgroup{
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.btn_change_PData{
+    width: 193px;
+    background: #6A8FEF;
+    color: white;
+    border: none;
+}
+.btn_change_PData:hover{
+    background-color: #3D63C6;
+}
+.ml25px{
+    margin-left: 25px;
+}
+
+.order{
+    padding: 30px;
+    width: 90%;
+    background-color: #D9D9D9;
+    border-radius: 15px;
+}
+.order_graph{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    margin-right: 25px;
+    display: flex;
+    align-items: center;
+}
+.blueprints{
+    width: 100%;
+    background-color: white;
+}
+.blueprints_img{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.mt25px{
+    margin-top: 25px;
+}
+.btn_doc_add{
+    width: 172px;
+    height: 57px;
+    background: #60DA74;
+    border: none;
+    margin-bottom: 15px;
+}
+.btn_doc_add:hover{
+    background-color: #429A50;
+}
+.graph_bottom{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 55px;
+    margin-top: 30px;
+}
+.btn_close_pj{
+    color: white;
+    width: 256px;
+    height: 68px;
+    background: #F56C6C;
+    border: none;
+    margin-top: 50px;
+}
+.btn_close_pj:hover{
+    background-color: #CD5A5A;
+}
+main{
+    margin-bottom: 100px;
+}
